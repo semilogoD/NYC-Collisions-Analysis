@@ -93,7 +93,17 @@ Distraction is the leading factor in general, but fatal accidents tend to involv
 
 ![](https://github.com/semilogoD/NYC-Collisions-Analysis/blob/main/Boough%20breakdown.PNG)
 
-## Recommendations
+## Recommendations:
+
+To reduce vehicle collisions in NYC, targeted enforcement during peak hours, especially Friday evenings, should be prioritized. Public awareness campaigns addressing driver distraction are essential, as inattention is the leading cause of non-fatal crashes. 
+
+In high-fatality zones, speed cameras and DUI checkpoints can help deter risky behaviours like speeding and alcohol use.
+Streets with high accident volumes, such as Belt Parkway and Broadway, should be audited and redesigned with safety features like better lighting, signage, and bike lanes. 
+
+Given that Brooklyn and Queens report the highest crash rates, expanding traffic calming measures in these boroughs is critical.
+
+Improving driver education to emphasize defensive and distraction-free driving, along with ongoing analysis of monthly accident trends, will support proactive safety planning across the city.
+
 
  
 
